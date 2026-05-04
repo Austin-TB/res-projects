@@ -1,0 +1,5 @@
+{
+  "title": "ChatRAG",
+  "description": "A chatbot with RAG capability. Answers based on semantic matches from your data.",
+  "github_link": "https://github.com/Austin-TB/ChatRAG"
+}

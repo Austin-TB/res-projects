@@ -1,0 +1,5 @@
+{
+  "title": "Neural Network",
+  "description": "A Nerual network written from scratch using just NumPy (no torch, no tf, no scikit). Helps you understand concepts like backprop and weight udpates.",
+  "github_link": "https://github.com/Austin-TB/Handwritten-Digit-Recognition"
+}

@@ -1,0 +1,6 @@
+{
+  "title": "RxU",
+  "description": "A dashboard for viewing public sentiment of drugs based on daily social media posts. Scrapes social media content from various sources and runs sentiment analysis on them.",
+  "github_link": "https://github.com/Austin-TB/rxu",
+  "deployed_link": "https://rxu.austintbabu.com"
+}

@@ -1,0 +1,5 @@
+{
+  "title": "MyGPT",
+  "description": "An LLM I trained from scratch based on the transformer architecture. All blocks like multi-head attention, feed forward, and positional encoding are implemented from scratch.",
+  "github_link": "https://github.com/Austin-TB/MyGPT"
+}
