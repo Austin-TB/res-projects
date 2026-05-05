@@ -1,0 +1,4 @@
+{"title":"Charts","description":"An MCP Server that generates statistical charts","github_link":"https://github.com/Austin-TB/charts"}
+{"title":"JobTailor","description":"An AI tool to tailor your resume according to job descriptions. Currently has 8 different career templates. You can download the edited resume directly from the tool","deployed_link":"https://jobtailor.austintbabu.com"}
+{"title":"Poppy","description":"A windows app that downloads Game ready GPU driver updates. It checks the sytem for updates and downloads the latest drivers if an update is available.","github_link":"https://github.com/Austin-TB/poppy"}
+{"title":"Rae","description":"An agentic chatbot. Capabilities: Web scraping, Youtube scraping, execute python code, speech analysis and much more. I'm regularly updating it with more capabilties","github_link":"https://github.com/Austin-TB/Rae","deployed_link":"https://rae.austintbabu.com"}
